@@ -1,0 +1,1536 @@
+id, character
+0,Tony Stark / Iron Man 
+"1,Lt. Col. James ""Rhodey"" Rhodes / War Machine "
+2,Obadiah Stane / Iron Monger 
+"3,Virginia ""Pepper"" Potts "
+4,Yinsen 
+5,Raza 
+6,J.A.R.V.I.S. (voice) 
+7,Christine Everhart 
+8,Agent Phil Coulson 
+9,Award Ceremony Narrator (voice) 
+10,Happy Hogan 
+11,Director Nick Fury 
+12,Stan Lee 
+13,Guard 
+14,Jim Cramer 
+15,Abu Bakaar 
+16,General Gabriel 
+17,William Ginter Riva 
+18,Major Allen 
+19,Jimmy 
+20,Pratt 
+21,Ramirez 
+22,Ahmed 
+23,Omar 
+24,Howard Stark 
+25,Viper 1 
+26,Viper 2 
+27,Amira Ahmed 
+28,Colonel Craig 
+29,Dealer at Craps Table 
+30,Woman at Craps Table 
+31,Engineer 
+32,Air Force Officer 
+33,Woman In SUV 
+34,Kid in SUV 
+35,Gulmira Kid 
+36,Gulmira Mom 
+37,Reporter 
+38,Flight Attendant 
+39,Air Force Lieutenant 
+40,Zorianna Kit 
+41,Stan's Girl 
+42,CAOC Analyst 
+43,Bruce Banner / The Hulk 
+44,Betty Ross 
+45,Emil Blonsky / Abomination 
+"46,General Thaddeus ""Thunderbolt"" Ross / The Red Hulk "
+47,Dr. Samuel Sterns / The Leader 
+48,Leonard Samson / Dr. Samson 
+49,Major Kathleen Sparr 
+50,General Joe Greller 
+51,Voice of The Incredible Hulk / Security Guard 
+52,Stanley 
+53,Martina 
+54,Commando 
+55,Terrified Gal 
+56,Helicopter Soldier 
+57,Grad Student 
+58,Tough Guy Leader 
+59,Tough Guy 
+60,Communications Officer 
+61,Helicopter Pilot 
+62,Soldier 
+63,Cop 
+64,Cab Driver 
+65,Medical Technician 
+66,Young Guy 
+67,Plant Manager 
+68,Sniper 
+69,Boat Captain 
+70,Guatemalan Trucker 
+71,Computer Nerd 
+72,Apache Helicopter Pilot 
+73,Colleague 
+74,Harlem Bystande 
+75,Market Vendor 
+76,Supply Driver 
+77,Army Base Doctor 
+78,Aikido Instructor 
+79,Ross's Soldier 
+80,McGee 
+81,Wilson 
+82,Gunner 
+83,Little Boy 
+84,Brave Cop 
+85,BOPE Officer 
+86,Medic Soldier 
+87,Handsome Soldier 
+88,Ross's Aide 
+89,Female Medical Assistant 
+90,Humvee Driver 
+91,Sterns Lab Soldier 
+92,Large Woman 
+93,Female Bartender 
+94,Hopscotch Girl 
+95,Natalie Rushman / Natasha Romanoff / Black Widow 
+96,Ivan Vanko / Whiplash 
+97,Justin Hammer 
+98,Senator Stern 
+99,U.S. Marshal 
+100,Herself 
+101,Detective Lemieux 
+102,Security Force #1 
+103,Security Force #2 
+104,Expo Fan 
+105,Russian Newscaster 
+106,French Photographer 
+107,Himself 
+108,General Meade 
+109,10 Rings Gangster 
+110,Anton Vanko 
+111,AV Operator 
+112,Rebecca 
+113,Expo Cop 
+114,Rebeka 
+115,Bambi Arbogast 
+116,Chess Roberts 
+117,Strawberry Vendor 
+118,Young Tony Stark 
+119,Hammer Expo Tech 
+120,French Waiter 
+121,Jack 
+122,Ironette Dancer 
+123,Thor 
+124,Jane Foster 
+125,Loki 
+126,Erik Selvig 
+127,King Laufey 
+128,Volstagg 
+129,Heimdall 
+130,Darcy Lewis 
+131,Frigga 
+132,Odin 
+133,Agent Coulson 
+134,Sif 
+135,Hogun 
+136,Fandral 
+137,Isabela Alvarez 
+138,Agent Sitwell 
+139,Frost Giant Captain 
+140,Frost Giant Sentry 
+141,Frost Giant Hailstrum 
+142,Frost Giant Brute 
+143,Frost Giant Grundroth 
+144,Frost Giant Raze 
+145,Einherjar Guard 
+146,Agent Delancey 
+147,Techie 
+148,Agent Jackson 
+149,Agent Garrett 
+150,Agent Cale 
+151,SHIELD Guard 
+152,Townie 
+153,Pete 
+154,Stan the Man 
+155,Drunk Townie 
+156,Pet Store Clerk 
+157,Admission Nurse 
+158,Orderly 
+159,Viking Mother 
+160,Viking Child 
+161,Viking Elder 
+162,Viking 
+163,Guest 
+164,Young Thor 
+165,Young Loki 
+166,Frost Giant 
+167,Nick Fury 
+168,Clint Barton 
+169,Steve Rogers / Captain America 
+170,Peggy Carter 
+171,Johann Schmidt / Red Skull 
+172,Col. Chester Phillips 
+173,James Buchanan 'Bucky' Barnes 
+174,Heinz Kruger 
+175,Abraham Erskine 
+176,Dr. Arnim Zola 
+177,Private Lorraine 
+178,SHIELD Agent 
+179,Jacques Dernier 
+180,Timothy 'Dum Dum' Dugan 
+181,Gabe Jones 
+182,Jim Morita 
+183,James Montgomery Falsworth 
+184,General 
+185,Senator Brandt 
+186,Brandt's Aide 
+187,SHIELD Lieutenant 
+188,Gilmore Hodge 
+189,Search Team Leader 
+190,SHIELD Tech 
+191,Jan 
+192,Tower Keeper 
+193,Barman 
+194,Nervous Recruit 
+195,Connie 
+196,Bonnie 
+197,4F Doctor 
+198,Loud Jerk 
+199,Young Doctor 
+200,Enlistment Office MP 
+201,Stark Girl 
+202,Sergeant Duffy 
+203,Johann Schmidt's Artist 
+204,Antique Store Owner 
+205,SSR Doctor 
+206,Project Rebirth Nurse 
+207,Kruger's Aide 
+208,Undercover Bum 
+209,Roeder 
+210,Hutter 
+211,Schneider 
+212,The Star Spangled Singer 
+213,Autograph Seeker 
+214,'Adolph Hitler' 
+215,Army Heckler 
+216,HYDRA Guard / HYDRA Pilot 
+217,Manager Velt 
+218,Thor Odinson 
+219,Natasha Romanoff / Black Widow 
+220,Clint Barton / Hawkeye 
+221,Agent Maria Hill 
+222,World Security Council 
+223,Shield Pilot 
+224,Old Man in TV Report 
+225,Waitress 
+226,Security Guard 
+227,Carrier Bridge Techs 
+228,Gala Scientist 
+229,Celebration Montage Interviewee 
+230,Tall Thug 
+231,Georgi Luchkov 
+232,Agent Jasper Sitwell 
+233,The Other 
+234,Senator Boynton 
+235,Young Cop 
+236,Thanos / The Mad Titan (Uncredited) 
+237,NASA Scientist 
+238,Weaselly Thug 
+239,Young Girl 
+240,Calcutta Woman 
+241,Carrier BridgeTechs 
+242,German Old Man 
+243,Maintenance Guy 
+244,Japanese Family 
+245,Police Sergeant 
+246,Office Woman 
+247,News Reporter 
+248,Faceless Pilot 
+249,Shawna Lynde 
+"250,Colonel James ""Rhodey"" Rhodes / War Machine"
+251,Aldrich Killian / The Mandarin 
+252,Trevor Slattery 
+253,Maya Hansen 
+254,Savin 
+255,Brandt 
+256,Jarvis (voice) 
+257,President Ellis 
+258,Mrs. Davis 
+259,Harley Keener 
+260,Vice President Rodriguez 
+261,Doctor Wu (as Wang Xueqi) 
+262,Ho Yinsen 
+263,Annoying Conference Guy 
+264,Neptune's Net Girl 
+265,Neptune's Net Boy 
+266,Taggert 
+267,Happy's Nurse 
+268,Hospital Nurse Reporter 
+269,Pushy Tabloid Reporter 
+270,Helicopter Pilot #1 
+271,Helicopter Pilot #2 
+272,Reporter at House Wreckage 
+273,Mandarin Studio Technician 
+274,Mandarin Look-Out 
+275,Rose Hills Sherrif 
+276,Rose Hill Deputy / Extremis Soldier 
+277,Rose Hill Christmas Tree Shopper 
+278,Junior Technician (as Sarah Burkharat) 
+279,Senior Technician 
+280,Satellite Technician (as Andy Lauer) 
+281,Technical Director 
+282,Vice President's Analyst 
+283,Thomas Richards 
+284,President's Aide 
+285,Scared Insurgent 
+286,Laughing Insurgent 
+287,Pageant Emcee 
+288,Miss Elk Ridge 
+289,Pageant Judge 
+290,Gary the Cameraman 
+291,Chad Davis 
+292,Extremis Candidate 
+293,Room Service Waiter / Extremis Soldier 
+294,Sweat Shop Agent 
+295,Mandarin Guard 
+296,Mandarin Guard (as Juan Bofill) 
+297,Mandarin Guard (as Paul O'Connor) 
+298,Sleepy Mandarin Girl 
+299,Annoyed Mandarin Guard 
+300,Mandarin Party Girl #1 
+301,Mandarin Party Girl #2 
+302,Tony's Guard 
+303,Ponytail Express 
+304,Reluctant AIM Guard 
+305,AIM Ping Pong Girl 
+306,Secret Service Agent 
+307,Vice President's Daughter 
+308,Iron Patriot Fan #1 
+309,Iron Patriot Fan #2 
+310,Air Force One Officer 
+311,Navy Op 
+312,Commander 
+313,Heather 
+314,Extremis Soldier 
+315,Darryl 
+316,Alexander Pierce 
+317,Bucky Barnes / Winter Soldier 
+318,Sam Wilson / Falcon 
+319,Maria Hill 
+320,Brock Rumlow 
+321,Jasper Sitwell 
+322,Kate / Agent 13 
+323,Smithsonian Guard 
+324,Jack Rollins 
+325,Councilwoman Hawley 
+326,Councilman Singh 
+327,Councilman Rockwell 
+328,Councilman Yen 
+329,Georges Batroc 
+330,French Pirate #1 
+331,French Pirate #2 
+332,Engine Pirate 
+333,French Radio Pirate 
+334,Skinny Steve 
+335,Launch Tech #1 
+336,Launch Tech #2 
+337,Dr. Fine (as Gozie Agbo) 
+338,SHIELD Interrogator #1 
+339,SHIELD Interrogator #2 
+340,Scientist #1 
+341,Scientist #2 
+342,Apple Employee 
+343,Com Tech #1 
+344,Com Tech #2 
+345,Renata (as Branka Katic) 
+346,Garcia 
+347,Charlie XO 
+348,Charlie Weapons Tech 
+349,Lead SHIELD Pilot 
+350,Senior SHIELD Agent 
+351,Strike SGT. #1 
+352,Strike SGT. #2 
+353,Strike Agent 
+354,25th Floor Strike Agent 
+355,Scudder 
+356,Human Resources Executive 
+357,Doctor 
+358,Lead EMT 
+359,CIA Instructor 
+360,Capitol Hill Police 
+361,FBI Agent 
+362,Committee Member 
+363,Little Boy in the Smithsonian 
+364,Fury Car Voice (voice) 
+365,SHIELD Computer (voice) 
+366,The Smithsonian Narrator (voice) 
+367,Dennis Cooper 
+368,Squire 
+369,Passelewe 
+370,King Bruno the Questionable 
+371,Mr. Fishfinger 
+372,The Other Squire 
+373,1st Herald 
+374,The Landlord 
+375,The Princess 
+376,Bishop 
+377,Griselda Fishfinger 
+378,1st Fanatic 
+379,Wat Dabney 
+380,Sister Jessica 
+381,Red Herring / Black Knight 
+382,Man Living in Barrel 
+383,The  Prince 
+384,Flying Hogfish Peasant 
+385,1st Merchant 
+386,2nd Merchant 
+387,3rd Merchant 
+388,Guard at the Gate 
+389,Sergeant at the Gate 
+390,Fanatics' Leader 
+391,Fanatic 
+392,Spaghetti Eating Fanatic 
+393,Mrs Fishfinger 
+394,Mr Cooper Snr 
+395,Armourer 
+396,Apprentice Armourer 
+397,Flagellant 
+398,Ratman 
+399,Old Man with Petition 
+400,1st Peasant 
+401,Scrubber 
+402,Kevin Fishfinger 
+403,Landlord's Wife 
+404,Bruce Banner / Hulk 
+405,Ultron (voice) 
+406,James Rhodes / War Machine 
+407,Pietro Maximoff / Quicksilver 
+408,Wanda Maximoff / Scarlet Witch 
+409,Jarvis (voice) / Vision 
+410,Sam Wilson / The Falcon 
+411,Laura Barton 
+412,Dr. Helen Cho 
+413,Strucker 
+414,Ulysses Klaue / Klaw 
+415,Madame B 
+416,Dr. List 
+417,Fortress Soldier 
+418,Strucker Mercenary 
+419,Zrinka 
+420,Costel 
+421,Sokovian Acid Student 
+422,Dr. Cho's Assistant 
+423,Klaue's Mercenary 
+424,Ballet Instructor 
+425,Johannesburg Cop 
+426,Johannesburg Driver 
+427,Johannesburg Onlooker 
+428,Johannesburg Elevator Passenger 
+429,Cooper Barton 
+430,Lila Barton 
+431,World Hub Tech 
+432,Korean Train Passenger 
+433,Sokovian Family 
+434,Sokovian Woman 
+435,Tub Family Child 
+436,Sokovian Driver 
+437,Sokovian SUV Driver 
+438,Sokovian SUV Passenger 
+439,Sokovian Police Captain 
+440,Specialist Cameron Klein 
+441,Friday (voice) 
+442,Nathaniel Pietro Barton 
+443,Citizen 
+444,Lieutenant James Rhodes / War Machine 
+445,T'Challa / Black Panther 
+446,Vision 
+447,Scott Lang / Ant-Man 
+448,Sharon Carter 
+449,Peter Parker / Spider-Man 
+450,Brock Rumlow / Crossbones 
+451,Secretary of State Thaddeus Ross 
+452,Zemo 
+453,Everett K. Ross 
+454,May Parker 
+455,Maria Stark 
+456,King T'Chaka 
+457,Karpov 
+458,Ayo 
+459,Miriam 
+460,M.I.T. Liaison 
+461,FedEx Driver 
+462,Dr. Broussard 
+463,Hero Merc #1 
+464,MRI Tech 
+465,Vicar 
+466,Josef / Super Soldier #1 
+467,Super Soldier #2 
+468,Super Soldier #3 
+469,Super Soldier #4 
+470,Super Soldier #5 
+471,Zemo's Wife (voice) 
+472,Attaché 
+473,Man at Kiosk 
+474,GSG9 Task Force Gunner 
+475,GSG9 Task Force Pilot 
+476,German Innkeeper 
+477,Raft Guard 
+478,Barge Man #1 
+479,Barge Man #2 
+480,Custodian 
+481,Funeral Director 
+482,Woman in Lobby #1 
+483,Woman in Lobby #2 
+484,Delivery Truck Driver 
+485,Choir 
+486,Chinese Newscaster 
+487,German Newscaster #1 
+488,German Newscaster #2 
+489,Busboy (Lagos) 
+490,Waiter (Lagos) 
+491,Secretary Ross's Aide 
+492,Hero Merc #2 
+493,Hero Merc #3 
+494,Hero Merc #4 
+495,Teenage Girl 
+496,UN Staffer Gibson 
+497,Stark's Assistant 
+498,Nurse 
+499,Cultural Attaché 
+500,Peter Quill / Star-Lord 
+501,Gamora 
+502,Drax 
+503,Baby Groot (voice) 
+504,Rocket (voice) 
+505,Yondu 
+506,Nebula 
+507,Mantis 
+508,Stakar Ogord 
+509,Ego 
+510,Ayesha 
+511,Taserface 
+512,Kraglin / On-Set Rocket 
+513,Tullk 
+514,Meredith Quill 
+515,Sovereign Chambermaid 
+516,Sovereign Pilot 
+517,Sovereign Admiral 
+518,Zylak (as Alex Klein) 
+519,Zylak's Frenemy 
+520,Retch 
+521,Oblo 
+522,Narblik 
+523,Halfnut 
+524,Brahl 
+525,Gef 
+526,Huhtar 
+527,Down There
+528,Unseen Ravager 
+529,Robot Courtesan 
+530,Robot Courtesan (as Kendra Staub) 
+531,Howard the Duck (voice) 
+532,Howard's Date (as Molly Quinn) 
+533,Martinex 
+534,Sneeper Madame 
+535,Watcher Informant 
+536,The Form of David Hasselhoff 
+537,Officer Fitzgibbon 
+538,Weird Old Man (as James Gunn, Sr.) 
+539,Weird Old Man's Mistress 
+540,Easik Mother 
+541,Young Peter Quill 
+542,Grandpa Quill 
+543,Grandpa Quill's Friend 
+544,Charlie-27 
+545,Aleta Ogord 
+546,Young Ego Facial Reference 
+547,Adrian Toomes / The Vulture 
+548,Harold 'Happy' Hogan 
+549,Michelle 'MJ' Jones 
+550,Ned 
+551,Liz Toomes 
+552,Aaron Davis 
+553,Eugene 'Flash' Thompson 
+554,Herman Schultz / Shocker #2 
+555,Jackson 'Montana' Brice / Shocker #1 
+556,Phineas Mason / The Tinkerer 
+557,Pepper Potts 
+558,Karen / Suit Lady (voice) 
+559,Anne Marie Hoag 
+560,Coach Whiz Wilson 
+561,Roger Harrington 
+562,Principal Morita 
+563,Ms. Warren 
+564,Mac Gargan 
+565,Doris Toomes 
+566,Betty Brandt 
+567,Sally Avril 
+568,Jason Ionello 
+569,Seymour O' Reilly 
+570,Abraham 'Abe' Brown 
+571,Cindy Moon 
+572,Charles Murphy 
+573,Brian 'Tiny' McKeever 
+574,Mr. Delmar 
+575,Mr. Cobbwell 
+576,Tour Guide 
+577,Punk on Street 
+578,Agent Foster 
+579,Gary 
+580,TBD 
+581,Randy Vale 
+582,Mr. Hapgood 
+583,Street Vendor 
+584,Car Jacker 
+585,Yelling Woman 
+586,Yelling Man 
+587,Day Sleeper 
+588,Thai Waiter 
+589,History Teacher 
+590,Tent Kid 
+591,Park Ranger 
+592,Decathlon Moderator 
+593,Ferry Kid 
+594,Ferry Mom 
+595,Ferry Commuter 
+596,Yeah Spider-Man Guy 
+597,Dean Crimson 
+598,Stark Tower Technician 
+599,Stark Tower Employee 
+600,NYC Pedestrian 
+601,High School Student 
+602,Party Girl 
+603,NYC Commuter 
+604,Ferry Passenger 
+605,Bank Customer 
+606,Unhappy Teen 
+607,Indian Flower Girl 
+608,Homecoming Dance Student 
+609,Drama Club Student 
+610,Girl on Elevator 
+611,Prison Guard 
+612,Firefighter 
+613,Decathlon Competitor 
+614,Skateboarder 
+615,Midtown Student 
+616,NY Pedestrian 
+617,NYPD Officer 
+618,Commuter 
+619,Rabbi on Subway 
+620,DODC Guard 
+621,Street Vendor / Pedestrian 
+622,Photographer 
+623,New Yorker 
+624,College Recruiter 
+625,Metro Police Officer 
+626,Construction Worker 
+627,FDNY Firefighter 
+628,Tony Stark's Technician 
+629,Student / Wedding Guest 
+630,Avenger's Staff Agent 
+631,Student 
+632,Inmate 
+633,Screaming Girl #2 
+634,DC news Reporter 
+635,Stark VTOL Pilot 
+636,Ned Leed's Dad 
+637,Vulture Henchman 
+638,Party Goer 
+639,Mascot 
+640,Fireman 
+641,Hela 
+642,Brunnhilde / Valkyrie 
+643,Grandmaster 
+644,Skurge 
+645,Stephen Strange / Doctor Strange 
+646,Topaz 
+647,Korg / Surtur (mo-cap) 
+648,Surtur (voice) 
+649,Barber 
+650,Actor Odin 
+651,Actor Thor 
+652,Actor Loki 
+653,Asgardian Date #1 
+654,Asgardian Date #2 
+655,Actor Sif 
+656,Odin's Assistant 
+657,College Girl #1 
+658,College Girl #2 
+659,Lead Scrapper 
+660,Golden Lady #1 
+661,Golden Lady #2 
+662,Cousin Carlo 
+663,Beerbot 5000 
+664,Warden 
+665,Asgardian Daughter 
+666,Asgardian Mother 
+667,Asgardian Uncle 
+668,Asgardian Son 
+669,Valkyrie Sister #1 
+670,Valkyrie Sister #2 
+671,Asgardian Woman 
+672,Asgardian Man 
+673,Asgardian 
+674,Asgardian Servant 
+675,GM Pilot 
+676,Grandmaster VIP 
+677,New York businessman 
+678,Twin Sakaaran citizen 
+679,Natasha Romanoff / Black Widow 
+680,Charles Xavier / Professor X 
+681,Logan / Wolverine 
+682,Eric Lensherr / Magneto 
+683,Ororo Munroe / Storm 
+684,Jean Grey / Phoenix 
+685,Scott Summers / Cyclops 
+686,Marie D'Ancanto / Rogue 
+687,Raven Darkholme / Mystique 
+688,Mortimer Toynbee / Toad 
+689,Victor Creed / Sabretooth 
+690,Senator Kelly 
+691,Henry Gyrich 
+692,Magneto's Mother 
+693,Magneto's Father 
+694,Rogue's Boyfriend 
+695,Hot Dog Vendor 
+696,Bobby Drake / Iceman 
+"697,Katherine ""Kitty"" Pryde / Shadowcat "
+698,John Allerdyce / Pyro 
+699,William Stryker 
+700,Kurt Wagner / Nightcrawler 
+701,Yuriko Oyama / Lady Deathstrike 
+702,Jubilee 
+703,Artie 
+704,Theresa Cassidy / Siryn 
+705,Jason 143 
+706,Douglas Ramsey / Cypher 
+707,Piotr Rasputin / Colossus 
+708,Surgeon 
+709,President McKenna 
+710,White House Tour Guide 
+711,Stryker Soldier #1 
+712,Oval Office Agent Cartwright 
+713,Captured X-Kid 
+714,Dr. Hank McCoy 
+715,Eric Lehnsherr / Magneto 
+716,Dr. Henry 'Hank' McCoy / Beast 
+717,Cain Marko / Juggernaut 
+718,Warren Worthington III / Angel 
+719,Callisto 
+720,Jimmy / Leech 
+721,Quentin Quire / Kid Omega 
+722,Jamie Madrox / Multiple Man 
+723,Philippa Sontag / Arclight 
+724,Betsy Braddock / Psylocke 
+725,Jubilation Lee / Jubilee 
+726,Theresa Rourke Cassidy / Siryn 
+727,Warren Worthington II 
+728,Dr. Kavita Rao 
+729,The President 
+730,Trask 
+731,Young Jean Grey 
+732,Young Angel 
+733,Waterhose Man 
+734,Minivan Son #2 
+735,Moira McTaggert 
+736,Logan / Wolverine / Weapon X 
+737,Stryker 
+738,Kayla Silverfox / Silver Fox 
+739,Wade Wilson / Deadpool / Weapon XI 
+740,John Wraith / Kestrel 
+741,Remy LeBeau / The Gambit 
+742,Fred Dukes / Blob 
+743,Chris Bradley / Bolt 
+744,David North / Agent Zero 
+745,Heather Hudson 
+746,Travis Hudson 
+747,James 
+748,Young Victor 
+749,John Howlett 
+750,Thomas Logan 
+751,Elizabeth Howlett 
+752,Firing Squad Leader 
+753,Carnival Guy 
+754,Carnival Girl 
+755,School Child 
+756,Logging Supervisor 
+757,Phelan 
+758,Marcuse 
+759,Van Mier 
+760,Bartender 
+761,Male Nurse #1 
+762,Male Nurse #2 
+763,Dr. Cornelius 
+764,Dr. Carol Frost 
+765,Lead Technician - Alkali Lake 
+766,General Munson 
+767,Platoon Leader 
+768,Muttering Man 
+769,Nervous African Woman 
+770,Stryker Aide 
+771,Curtis 
+772,Kayla's Sister / Emma 
+773,Poker Player 
+774,Woman of the Night 
+775,Huge Doorman 
+776,Drunken Man in Alley 
+777,Driver 
+778,African Businessman 
+779,Teacher 
+780,Special Forces Commander 
+781,Vietnamese Child 
+782,Hunter #1 
+783,Hunter #2 
+784,Vietnam Army Officer 
+785,Tank Soldier 
+786,Vietnamese Man 
+787,Vietnamese Woman 
+788,Mutant Twin #1 
+789,Mutant Twin #2 
+790,Weapon XI 
+791,Erik Lehnsherr / Magneto 
+792,Sebastian Shaw / Black Bishop 
+793,Moira MacTaggert 
+794,Hank McCoy / Beast 
+795,Emma Frost / White Queen 
+796,Azazel 
+797,Alex Summers / Havok 
+798,Sean Cassidy / Banshee 
+799,Angel Salvadore / Tempest 
+800,Man in Black Suit 
+801,Armando Muñoz / Darwin 
+802,Janos Quested / Riptide 
+803,CIA Director McCone 
+804,Russian General 
+805,Colonel Hendry 
+806,Captain 
+807,Young Raven (10 yrs) 
+808,Charles Xavier (12 Years) 
+809,Mrs. Xavier 
+810,Young Erik 
+811,Levene 
+812,US General 
+813,Secretary of State 
+814,Logan / Wolverine (Uncredited) 
+815,Mystique - older 
+816,Soviet NCO 
+817,Russian General's Bodyguard 
+818,Chief Warden 
+819,Co-Ed 
+820,Edie Lensherr 
+821,Man In Black Suit Agent 
+822,Aral Sea Captain 
+823,Mr. Lensherr (Erik's Dad) 
+824,Swiss Bank Manager 
+825,1st German / Pig Farmer 
+826,2nd German / Tailor 
+827,Shingen 
+828,Harada 
+829,Mariko Yashida 
+830,Yukio 
+831,Madame Hydra / Viper 
+832,Yashida 
+833,Noburo Mori 
+834,Young Yashida 
+835,Pock-Face 
+836,Aya 
+837,Red Beard 
+838,Bar Man (Red Beard's Friend) 
+839,Yukon Bar Patron 
+840,Buddhist Priest 
+841,Fruit Cart Vendor 
+842,Dying Yakuza 
+843,Yashida Security Guard 
+844,Charles Xavier / Professor X (Young) 
+845,Erik Lehnsherr / Magneto (Young) 
+846,Bolivar Trask 
+847,Erik Lehnsherr / Magneto (Old) 
+848,Charles Xavier / Professor X (Old) 
+849,Hank McCoy / Beast (older) 
+850,Lucas Bishop 
+851,Pietro Maximoff / Quicksilver 
+852,Clarice Ferguson / Blink 
+853,Roberto da Costa / Sunspot 
+854,James Proudstar / Warpath 
+855,Congresman Davis 
+856,Congressman Parker 
+857,Senator Brickman 
+858,Ink 
+859,President Richard Nixon 
+860,Man with a movie camera 
+861,En Sabah Nur 
+862,Groundskeeper 
+863,Pinstripe Mafioso 
+864,Col. Sanders 
+865,Vietnam MP Guard 
+866,Mutant Soldier 
+867,Quarantine Doctor 
+868,Congressman McCarter 
+869,Trask Secretary 
+870,Ms. Maximoff 
+871,Pentagon Tour Guide 
+872,Surveillance Guard 
+873,Pentagon Cook 
+874,Pentagon Elevator Guard 
+875,Armed Kitchen Guard 
+876,General Nhuan 
+877,Vietnamese Captain 
+878,General Petrov 
+879,Peace Summit Reporter 
+880,Nixon Aide 
+881,Secretary of Defense 
+882,US Army General 
+883,Desk Anchor 
+884,French Emergency Nurse 
+885,French TV Reporter 
+886,Female Traveler 
+887,Blue Suit Traveler 
+888,Airport Backpacker 
+889,White House Reporter 
+890,White House Ticket Man 
+891,Potomac River Cop 
+892,Chinese Translator 
+893,Professor Charles Xavier 
+894,En Sabah Nur / Apocalypse 
+895,Col. William Stryker 
+896,Elizabeth 'Betsy' Braddock / Psylocke 
+897,Horseman - Pestilence 
+898,Horseman - Famine 
+899,Horseman - Death 
+900,Horseman - War 
+901,Lead Conspiracy Guard 
+902,Conspirator Guard 
+903,High Priest 
+904,Old Apocalypse 
+905,Scott's Teacher 
+906,School Jock 
+907,School Cheerleader 
+908,Fight Announcer 
+"909,Defeated ""Blob"" "
+910,Electric Panel Guard 
+911,Mr. Summers 
+912,Mrs. Summers 
+913,Falafel Shop Owner 
+914,Clan Akkaba Leader 
+915,Clan Akkaba Disciple 
+916,Magda 
+917,Nina 
+918,Cairo Shoe Shop Vendor 
+919,Milosz 
+920,Polish Worker 
+921,Lead Polish Inspector 
+922,Jakob 
+923,Polish Police Archer 
+924,Threatening Cairo Vendor 
+925,Egyptian Street Vendor 
+926,Caliban 
+927,CNN Reporter 
+928,News Anchor 
+929,Pentagon General Hastings 
+930,Pentagon General Radford 
+931,Pentagon General Fields 
+932,Defense Secretary Weisberg 
+933,Military Official Brown 
+934,Military Submarine Official 
+935,Air Force Official 
+936,Foyer Student 
+937,Fish Bowl Girl 
+938,Kissing Girl 
+939,Kissing Guy 
+940,Computer Guy 
+941,Darts Guy 
+942,Tab Girl 
+943,Pizza Dog 
+944,Student in Drapes 
+945,Table Surfing Student 
+946,Alkali Soldier 
+947,Alkali Guard 
+948,Alkali Communications Officer 
+949,Confused Tech 
+950,Kenyan Teacher 
+951,Pentagon Scientist 
+952,Fishing Boat Captain 
+953,Finsherman 
+954,Harbor Master 
+955,Harbor Employee 
+956,Russian Submarine Sailors 
+957,Russian Submarine Sailor 
+958,US Weapons Technician 
+959,Mystery Man 
+960,Logan Howlett / Wolverine / X-24 
+961,Donald Pierce 
+962,Dr. Zander Rice 
+963,Laura Kinney / X-23 
+964,Laura (double) 
+965,Will Munson 
+966,Kathryn Munson 
+967,Gabriela Lopez 
+968,Maria 
+969,Rhodes 
+970,Valet 
+971,Rictor 
+972,Mohawk 
+973,Delilah 
+974,Nate Munson 
+975,Federale Commander 
+976,Federale Lieutenant 
+977,Federale 
+978,Rey (as Rey Gallegos) 
+979,Macon 
+980,Bone Breaker 
+981,Pretty Boy 
+982,Reaver 
+983,Motel Manager 
+984,Bobby 
+985,Charlotte 
+986,Lizard Boy 
+987,Mexican Staff Member 
+988,Jackson 
+989,Old Doctor 
+990,Prom Teen #1 
+991,Prom Teen #2 
+992,Prom Teen #3 
+993,Prom Teen #4 
+994,Bridesmaid 
+995,Pastor 
+996,Mourning Widow 
+997,Infirmary Nurse 
+998,Car Dealer 
+999,Major 
+1000,Banger 
+1001,Pine Cone Girl 
+1002,Jonah 
+1003,Mutant Child 
+1004,Glowing Eyes Boy 
+1005,Jackson's Henchman 
+1006,Screaming Casino Woman 
+1007,Bumpy Skinned Kid 
+1008,Border Guard 
+1009,Convenience Store Clerk 
+1010,Wade Wilson / Deadpool 
+1011,Vanessa Carlysle / Copycat 
+1012,Francis Freeman / Ajax 
+"1013,Jack ""Weasel"" Hammer "
+1014,Christina / Angel Dust 
+1015,Blind Al 
+1016,Ellie Phimister / Negasonic Teenage Warhead 
+1017,The Recruiter 
+1018,Piotr Rasputin / Colossus (voice) 
+1019,Dopinder 
+1020,Buck 
+1021,Boothe 
+1022,Warlord 
+1023,Jeremy (Pizza Guy) 
+1024,Gavin Merchant 
+1025,Meghan Orlovsky 
+1026,Teen Girl #1 
+1027,Teen Girl #2 
+1028,Arcade Ticket Taker 
+1029,Oncologist 
+1030,David Cunningham 
+1031,Chinatown Merchant 
+1032,Whisper Girlfriend 
+1033,Whisper Boyfriend 
+1034,Pool Hall Goon 
+1035,Fight Club Boss 
+1036,Garbage Truck Driver 
+1037,Super Soldier #1 
+1038,Strip Club DJ 
+1039,No5 Orange Manager 
+1040,Strip Club Worker 
+1041,Flight Deck Guard 
+1042,Bob 
+1043,Blade 
+1044,Deacon Frost 
+1045,Whistler 
+1046,Karen 
+1047,Quinn 
+1048,Dragonetti 
+1049,Mercury 
+1050,Racquel 
+1051,Krieger 
+1052,Curtis Webb 
+1053,Vanessa 
+1054,Pearl 
+1055,Senior Resident 
+1056,Resident 
+1057,Heatseeking Dennis 
+1058,Creepy Morgue Guy 
+1059,Pallantine 
+1060,Japanese Doorman 
+1061,Kam 
+1062,Paramedic 
+1063,Pragmatic Policeman 
+1064,Blood Club Bouncer 
+1065,Martial Arts Kid 
+1066,Lyle Conway 
+1067,Menacing Stud 
+1068,Vampire Underling 
+1069,Frost's Goon 
+1070,Von Esper 
+1071,Crease 
+1072,Pleading Goon 
+1073,Slavic Vampire Lord 
+1074,Russian Woman 
+1075,Russian Vampire 
+1076,Cardboard cut-out in Subway 
+1077,Vampire Victim 
+1078,Blood Bath Vampire 
+1079,Reinhardt 
+1080,Nyssa 
+1081,Scud 
+1082,Damaskinos 
+1083,Nomak 
+1084,Chupa 
+1085,Asad 
+1086,Snowman 
+1087,Kounen 
+1088,Verlaine 
+1089,Priest 
+1090,Lighthammer 
+1091,Rush 
+1092,Jigsaw 
+1093,Golem 
+1094,Blood Bank Doctor / Reaper 
+1095,Blood Bank Guard / Reaper 
+1096,Blood Bank Nurse 
+1097,Drug Dealer 
+1098,Blood Bank Guard 
+1099,Vampire with Exposed Spine 
+1100,Reaper 
+1101,St. Cloud 
+1102,Choad 
+1103,Little G 
+1104,Tea Bag 
+1105,Man in London Porno Shop 
+1106,Young Blade 
+1107,Drake 
+1108,Abigail Whistler 
+1109,Hannibal King 
+1110,Danica Talos 
+1111,Chief Martin Vreede 
+1112,Dr. Edgar Vance 
+1113,Asher Talos 
+1114,Jarko Grimwood 
+1115,Wolfe 
+1116,Virago 
+1117,Wilson Hale 
+1118,Ray Cumberland 
+1119,Sommerfield 
+1120,Zoe 
+1121,Hedges 
+1122,Bentley Tittle 
+1123,Goth Vixen Wannabe 
+1124,Stone 
+1125,Johnny Blaze/Ghost Rider 
+1126,Roxanne Simpson 
+1127,Blackheart / Black King 
+1128,Mack 
+1129,Carter Slade / Phantom Rider 
+1130,Mephistopheles 
+1131,Barton Blaze 
+1132,Young Johnny Blaze 
+1133,Young Roxanne Simpson 
+1134,Team Blaze 
+1135,X Games Announcer 
+1136,Motorcycle Gang Member 
+1137,Broken Spoke Waitress 
+1138,Goth Girl in Alley 
+1139,Wallow 
+1140,Abigor 
+1141,Johnny Blaze / Ghost Rider 
+1142,Roarke / The Devil 
+1143,Nadya 
+1144,Danny 
+1145,Ray Carrigan / Blackout 
+1146,Methodius 
+1147,Moreau 
+1148,Benedict 
+1149,Grannik 
+1150,Terrokov 
+1151,Toma Nikasevic 
+1152,Dr. Reed Richards 
+1153,Johnny Storm 
+1154,Susan Storm 
+1155,Ben Grimm 
+1156,Dr. Doom / Victor Von Doom 
+1157,Thing 
+1158,Jeweler 
+1159,Professor 
+1160,Alicia Masters 
+1161,Weasel 
+1162,Mrs. Storm 
+1163,Kragstadt 
+1164,Trigorin 
+1165,Dr. Hauptman 
+1166,Messenger 
+1167,Reed Richards / Mr. Fantastic 
+1168,Sue Richards / Invisible Woman 
+1169,Johnny Storm / Human Torch 
+1170,Ben Grimm / The Thing 
+1171,Victor von Doom / Doctor Doom 
+1172,General Hager 
+1173,Norrin Radd / Silver Surfer (voice) 
+1174,Norrin Radd / Silver Surfer 
+1175,Frankie Raye 
+1176,James Sherman / Rafke 
+1177,Dr. Jeff Wagner 
+1178,Baxter Building Doorman 
+1179,Hot Party Girl #3 
+1180,Johnny's Wedding Date 
+1181,Stan Lee - Rejected Wedding Guest 
+1182,Tailor 
+1183,Elektra Natchios / Elektra 
+1184,Mark Miller 
+1185,Kirigi 
+1186,Roshi 
+1187,Stick 
+1188,Typhoid Mary / Typhoid 
+1189,Abby Miller 
+1190,McCabe 
+1191,Kinkou 
+1192,Tattoo 
+1193,Bauer 
+1194,Meizumi 
+1195,Young Elektra 
+1196,Pool Shark 
+1197,Hand Ninja #2 
+1198,Roshi Servant 
+1199,Nikolas Natchios 
+1200,Hand Ninja #1 
+1201,Young Elektra's Mother 
+1202,Matt Murdock (Director's Cut only) 
+1203,Matt Murdock / Daredevil 
+1204,Elektra Natchios 
+1205,Lester / Bullseye 
+1206,Wilson Fisk / The Kingpin 
+1207,Franklin 'Foggy' Nelson 
+1208,Young Matt 
+1209,Karen Page 
+1210,Ben Urich 
+1211,Wesley Owen Welch 
+1212,Nick Manolis 
+1213,Father Everett 
+1214,Jose Quesada 
+1215,Jack Murdock 
+1216,Abusive Father 
+1217,Meat Packer 
+1218,Quesada Attorney 
+1219,Ring Announcer 
+1220,Angela Sutton 
+1221,Judge #1 
+1222,Josie 
+1223,NY Cop #1 
+1224,Kid #1 
+1225,Kid #2 
+1226,Kid #3 
+1227,Stavros 
+1228,Old Lady on Plane 
+1229,Rookie Cop 
+1230,Drunken Englishman 
+1231,Sharpshooter 
+1232,Jack Kirby, Forensic Assistant 
+1233,Quesada's Friend #1 
+1234,Quesada's Friend #2 
+1235,Boxing Referee #1 
+1236,Boxing Referee #2 
+1237,Old Man at Crossing 
+1238,Quesada's Friend #3 
+1239,Swat Leader 
+1240,Policeman 
+1241,Greek Priest 
+1242,Fisk Bodyguard 
+1243,Bully #1 
+1244,Bully #2 
+1245,Bully #3 
+1246,Stavros' Friend 
+1247,Man with Pen in Head 
+1248,Norman Osborn / Green Goblin 
+1249,Mary Jane Watson 
+1250,Harry Osborn 
+1251,Ben Parker 
+1252,J. Jonah Jameson 
+1253,Flash Thompson 
+1254,Joseph 'Robbie' Robertson 
+1255,Carjacker 
+1256,Betty Brant 
+1257,Dr. Mendell Stromm 
+1258,Bone Saw McGraw 
+1259,Check-In Girl 
+1260,Punk Rock Girl 
+1261,Hoffman 
+1262,Man in Fair 
+1263,Stunts 
+1264,Tugboat Captain 
+1265,Maximilian Fargas 
+1266,Simkins 
+1267,Henry Balkan 
+1268,General Slocum 
+1269,Houseman 
+1270,Subway Guitarist 
+1271,Cop at Carjacking 
+1272,Lab Tour Guide 
+1273,Wrestling Promoter 
+1274,Wrestling Arena Guard 
+1275,Flash's Crony 
+1276,Heckler 
+1277,Cop at Fire 
+1278,Mother at Fire 
+1279,Cabbie 
+1280,Opinionated Cop 
+1281,Surly Truck Driver 
+1282,Philip Watson 
+1283,Chaperone in Tram 
+1284,Girl in Tram 
+1285,Boy in Tram 
+1286,Project Coordinator 
+1287,Madeline Watson 
+1288,Billy's Mom 
+1289,Young Lady at Fire 
+1290,Marine Cop 
+1291,Dr. Otto Octavius / Doctor Octopus 
+1292,Rosalie Octavius 
+1293,John Jameson 
+1294,Dr. Curt Connors 
+1295,Norman Osborn 
+1296,Ursula 
+1297,Snooty Usher 
+1298,Man Dodging Debris 
+1299,Man on Balcony 
+1300,Mr. Jacks 
+1301,Elevator Passenger 
+1302,Pizza 'Heist' Witness 
+1303,Receptionist 
+1304,Miss Brant 
+1305,Raymond 
+1306,Mr. Aziz 
+1307,Train Passenger 
+1308,Louise 
+1309,Woman at Web 
+1310,Dr. Davis 
+1311,Mr. Ditkovich 
+1312,Garbage Man 
+1313,Mrs. Jameson 
+1314,Skeptical Scientist 
+1315,OsCorp Representative 
+1316,Amazed Kid 
+1317,Algernon 
+1318,Theater Traffic Cop 
+1319,Clawing Nurse 
+1320,Train Conductor 
+1321,Society Woman 
+1322,Dr. Isaacs 
+1323,Mrs. Watson 
+1324,Injured Scientist 
+1325,Violinist 
+1326,Woman at Fire 
+1327,Screaming Nurse 
+1328,Chainsaw Doctor 
+1329,Harry Osborn / New Goblin 
+1330,Flint Marko / Sandman 
+1331,Eddie Brock / Venom 
+1332,Gwen Stacey 
+1333,Captain Stacey 
+1334,Mrs. Marko 
+1335,Joseph Robertson 
+1336,Penny Marko 
+1337,Mr. Ditkovitch 
+1338,Dennis Carradine / Carjacker 
+1339,Man in Times Square 
+1340,Maître d 
+1341,Pianist 
+1342,Mrs. Stacy 
+1343,Anchorman 
+1344,Jennifer Dugan 
+1345,Congratulatory Woman at Daily Bugle 
+1346,Crane Disaster Radio Policeman 
+1347,Play Director 
+1348,Play Producer 
+1349,Jazz Club Manager 
+1350,Precinct Detective 
+1351,Emergency Room Doctor 
+1352,Crane Operator 
+1353,Woman Outside Theater 
+1354,Police Detective 
+1355,New Jersey State Policeman 
+1356,Test Site Technician 
+1357,ICU Nurse 
+1358,Cop at Crane Disaster 
+1359,Mary Jane's Replacement 
+1360,Boy at Key to the City Ceremony 
+1361,Councilwoman 
+1362,Policeman at Sand Truck 
+1363,Armored Car Driver 
+1364,Newstand Patron 
+1365,Coffee Shop Waitress 
+1366,Jazz Club Waitress 
+1367,Jazz Club Bouncer 
+1368,Photoshoot Client 
+1369,Gwen Stacy 
+1370,Dr. Curt Connors / The Lizard 
+1371,Captain Stacy 
+1372,Richard Parker 
+1373,Rajit Ratha 
+1374,Uncle Ben 
+1375,Aunt May 
+1376,Peter Parker (Age 4) 
+1377,Mary Parker 
+1378,Cash Register Thief 
+1379,Missy Kallenback 
+1380,Jack's Father 
+1381,School Librarian 
+1382,Man in the Shadows 
+1383,Helen Stacy 
+1384,Philip Stacy 
+1385,Howard Stacy 
+1386,Simon Stacy 
+1387,Mr. Cramer 
+1388,Miss Ritter 
+1389,Nicky's Girlfriend 
+1390,Store Clerk 
+1391,Gordon 
+1392,Physics Nerd 
+1393,Nicky 
+1394,Car Thief 
+1395,Car Thief Cop 
+1396,Police Officer 
+1397,Officer (SWAT) 
+1398,Newscaster (News Chopper) 
+1399,OsCorp Intern 
+1400,Rodrigo Guevara 
+1401,Taxi Driver 
+1402,Police Officer with Sketch 
+1403,Sheila (Subway) 
+1404,Subway Guy 
+1405,Principal 
+1406,Second Girl (Subway) 
+1407,Ariel 
+1408,Max Dillon / Electro 
+1409,Harry Osborn / Green Goblin 
+1410,Donald Menken 
+1411,Aleksei Sytsevich / The Rhino (Uncredited) 
+1412,Young Peter Parker 
+1413,Felicia Hardy 
+1414,Dr. Ashley Kafka 
+1415,Allistar Smythe 
+1416,Graduation Guest 
+1417,Gustav Fiers / The Gentleman 
+1418,Woman in Statue Of Liberty Costume 
+1419,Dr. Jallings - Science Investigator 
+1420,Kari 
+1421,Agent Berkley 
+1422,Swat Team Leader 
+1423,Jorge 
+1424,G-5 Co-Pilot 
+1425,Gwen's Cabbie 
+1426,British Desk Attendant 
+1427,Principal Conway 
+1428,Times Square Cop 
+1429,Lead Officer 
+1430,Police Captain 
+1431,Bodega Cashier 
+1432,Robber 
+1433,Air Traffic Controller 
+1434,Dispatcher 
+1435,Osborn Butler 
+1436,Pilot 
+1437,Jorge's Mother 
+1438,NY1 News Anchor 
+1439,NY1 Reporter 
+1440,Chinese Grandpa 
+1441,Armed Robber 
+1442,Ravencroft Guard 
+1443,Bully 
+1444,OsCorp Department Head 
+1445,Times Square Bystander 
+1446,Corporate Lawyer 
+1447,Frank Castle / The Punisher 
+1448,Howard Saint 
+1449,Quentin Glass 
+1450,Frank Castle, Sr. 
+1451,Livia Saint 
+1452,Specker Dave 
+1453,Bobby Saint 
+1454,Jimmy Weeks 
+1455,Mickey Duka 
+1456,Bumpo 
+1457,Joan 
+1458,Harry Heck 
+1459,Will Castle 
+1460,Joe Toro 
+1461,Tattooed Mike 
+1462,T.J. 
+1463,Bay News 9 Newscaster 
+1464,Toro Croupier 
+1465,EMT 
+1466,Police Chief Morris 
+1467,Betty Castle 
+1468,Candelaria 
+1469,Accountant #1 
+1470,Accountant #2 
+1471,Accountant #3 
+1472,Spoon 
+1473,Dante 
+1474,The Russian 
+1475,Lincoln 
+1476,Saint Puerto Rico Enforcer 
+1477,Yuri Astrov 
+1478,Billy Russoti / Jigsaw 
+1479,Angela Donatelli 
+1480,Paul Budiansky 
+1481,Loony Bin Jim 
+1482,Martin Soap 
+1483,Micro 
+1484,Grace Donatelli 
+1485,Pittsy 
+1486,Agent Miller 
+1487,Captain Ross 
+1488,Saffiotti 
+1489,Maginty 
+1490,Carlos 
+1491,Cristu Bulat 
+1492,Dr. Hank Pym 
+1493,Hope van Dyne 
+1494,Darren Cross / Yellowjacket 
+1495,Paxton 
+1496,Luis 
+1497,Dave 
+1498,Gale 
+1499,Maggie Lang 
+1500,Cassie Lang 
+1501,Kurt 
+1502,Mitchell Carson 
+1503,Car Driver 
+1504,Dale 
+1505,Hydra Buyer 
+1506,Frank 
+1507,Buyer 
+1508,Young Pym 
+1509,Janet van Dyne / The Wasp 
+1510,Spanish Woman 
+1511,Young Daughter 
+1512,Raver 
+1513,Pool BBQ Dad 
+1514,Pool BBQ Mom 
+1515,Pool BBQ Kid 
+1516,Pym Tech Gate Guard 
+1517,Pym Tech Security Guard 
+1518,PYM Tech Security Guard 
+1519,Gorgeous Blonde 
+1520,Superior Officer 
+1521,Ice Cream Store Customer 
+1522,Ernesto 
+1523,Emily 
+1524,Peachy 
+1525,Cop on Speaker 
+1526,Alpha Guard 
+1527,Beta Guard 
+1528,Vault Guard 
+1529,Armed Guard 
+1530,Lab Guard 
+1531,Lab Tech 
+1532,Ignacio 
+1533,Writer 
+1534,Hideous Rabbit (voice) 
